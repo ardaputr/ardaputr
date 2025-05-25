@@ -10,7 +10,3 @@
 
 
 ![ardaputr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaputr&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
-![ardaputr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardaputr&theme=tokyonight&hide_border=false)
-
-![ardaputr's Stats](https://github-readme-stats.vercel.app/api?username=ardaputr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
